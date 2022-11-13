@@ -1,7 +1,7 @@
 # TuteDude Assignment
 
 Here is the `TuteDude Assignment live-website
-`(https://lighthearted-kangaroo-1fbf59.netlify.app/)`
+`(https://lighthearted-kangaroo-1fbf59.netlify.app/)
 
 <br/>
 
