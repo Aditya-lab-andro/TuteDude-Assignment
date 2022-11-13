@@ -23,7 +23,7 @@ Here is the `TuteDude Assignment live-website
 |            +---footer.css
 |   |      friends
 |            +---data
-|                    +---data.js
+|              +---data.js
 |           +---FCard.js
 |           +---FCard.css
 |           +---friend.js
